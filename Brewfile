@@ -19,15 +19,15 @@ brew "mas"
 brew "asdf"
 brew "nano"
 brew "zsh"
-cask "1password"
-cask "google-chrome"
+# cask "1password"
+# cask "google-chrome"
 cask "istat-menus"
-cask "slack"
-cask "zoom"
-cask "iterm2"
-cask "visual-studio-code"
+# cask "slack"
+# cask "zoom"
+# cask "iterm2"
+# cask "visual-studio-code"
 cask "keybase"
-cask "adobe-creative-cloud" # Actual Adobe apps will need to be installed separately
+# cask "adobe-creative-cloud" # Actual Adobe apps will need to be installed separately
 
 ###############################################################################
 # Command line apps to install via Homebrew
@@ -109,6 +109,7 @@ brew "mad"
 brew "make"
 brew "maven"
 brew "ncurses"
+brew "neovim"
 brew "openjdk"
 brew "openjdk@11"
 brew "openssl@1.1"
@@ -164,87 +165,87 @@ brew "zsh-completions"
 ###############################################################################
 # Desktop apps to install via Cask
 ###############################################################################
-cask "1password-cli"
-cask "alfred"
-cask "android-file-transfer"
-cask "bartender"
-cask "betterzip"
-cask "brave-browser"
-cask "caffeine"
-cask "camunda-modeler"
-cask "charles"
-cask "cheatsheet"
-cask "cleanshot"
-cask "clickup"
-cask "dash"
-cask "datagrip"
-cask "deckset"
-cask "discord"
-cask "docker"
-cask "expressvpn"
-cask "figma"
-cask "firefox"
-cask "font-meslo-for-powerline"
-cask "goland"
-cask "google-drive-file-stream"
-cask "graalvm-ce-lts-java11"
-cask "grammarly"
-cask "handbrake"
-cask "iina"
-cask "insomnia"
-cask "intellij-idea"
-cask "keyboard-cleaner"
-cask "kindle"
-cask "lens"
-cask "microsoft-office"
-cask "microsoft-teams"
-cask "miro"
-cask "mono-mdk"
-cask "ngrok"
-cask "phantomjs"
-cask "plex"
-cask "plex-media-server"
-cask "pritunl"
-cask "pycharm"
-cask "quickbooks-online"
-cask "rectangle"
-cask "secure-pipes"
-cask "setapp"
-cask "sketch"
-cask "skype"
-cask "sourcetree"
-cask "superhuman"
-cask "tor-browser"
-cask "transmit"
-cask "vagrant"
-cask "veracrypt"
-cask "viscosity"
-cask "visual-studio"
-cask "vlc"
+# cask "1password-cli"
+# cask "alfred"
+# cask "android-file-transfer"
+# cask "bartender"
+# cask "betterzip"
+# cask "brave-browser"
+# cask "caffeine"
+# cask "camunda-modeler"
+# cask "charles"
+# cask "cheatsheet"
+# cask "cleanshot"
+# cask "clickup"
+# cask "dash"
+# cask "datagrip"
+# cask "deckset"
+# cask "discord"
+# cask "docker"
+# cask "expressvpn"
+# cask "figma"
+# cask "firefox"
+# cask "font-meslo-for-powerline"
+# cask "goland"
+# cask "google-drive-file-stream"
+# cask "graalvm-ce-lts-java11"
+# cask "grammarly"
+# cask "handbrake"
+# cask "iina"
+# cask "insomnia"
+# cask "intellij-idea"
+# cask "keyboard-cleaner"
+# cask "kindle"
+# cask "lens"
+# cask "microsoft-office"
+# cask "microsoft-teams"
+# cask "miro"
+# cask "mono-mdk"
+# cask "ngrok"
+# cask "phantomjs"
+# cask "plex"
+# cask "plex-media-server"
+# cask "pritunl"
+# cask "pycharm"
+# cask "quickbooks-online"
+# cask "rectangle"
+# cask "secure-pipes"
+# cask "setapp"
+# cask "sketch"
+# cask "skype"
+# cask "sourcetree"
+# cask "superhuman"
+# cask "tor-browser"
+# cask "transmit"
+# cask "vagrant"
+# cask "veracrypt"
+# cask "viscosity"
+# cask "visual-studio"
+# cask "vlc"
 # cask "vmware-fusion"
-cask "xquartz"
+# cask "xquartz"
 
 ###############################################################################
 # Desktop apps to install via Mac App Store
 ###############################################################################
-mas "Disk Space Analyzer Pro", id: 488920185
-mas "EasyRes", id: 688211836
-mas "Fantastical", id: 975937182
-mas "feedly", id: 865500966
-mas "Harvest", id: 506189836
-mas "Keynote", id: 409183694
-mas "Microsoft Remote Desktop", id: 715768417
-mas "Mindnode", id: 1289197285
-mas "Numbers", id: 409203825
-mas "Omnigraffle 7", id: 1142578753
-mas "Pages", id: 409201541
-mas "Paste", id: 967805235
-mas "Patterns", id: 429449079
-mas "Screenflow 10", id: 1568414480
-mas "Textual 7", id: 1262957439
-mas "Twitter", id: 1482454543
-mas "Vimeo", id: 1356686763
-mas "Xcode", id: 497799835
+# mas "Disk Space Analyzer Pro", id: 488920185
+# mas "EasyRes", id: 688211836
+# mas "Fantastical", id: 975937182
+# mas "feedly", id: 865500966
+# mas "Harvest", id: 506189836
+# mas "Keynote", id: 409183694
+# mas "Microsoft Remote Desktop", id: 715768417
+# mas "Mindnode", id: 1289197285
+# mas "Numbers", id: 409203825
+# mas "Omnigraffle 7", id: 1142578753
+# mas "Pages", id: 409201541
+# mas "Paste", id: 967805235
+# mas "Patterns", id: 429449079
+# mas "Screenflow 10", id: 1568414480
+# mas "Textual 7", id: 1262957439
+# mas "Twitter", id: 1482454543
+# mas "Vimeo", id: 1356686763
+# mas "Xcode", id: 497799835
 
 #######################################
 # @divideby0 Personal Apps
