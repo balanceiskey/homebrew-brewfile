@@ -29,6 +29,13 @@ cask "istat-menus"
 cask "keybase"
 # cask "adobe-creative-cloud" # Actual Adobe apps will need to be installed separately
 
+
+################################################################################
+# Sundeep Things 
+###############################################################################
+tap "romkatv/powerlevel10k"
+brew "romkatv/powerlevel10k/powerlevel10k"
+
 ###############################################################################
 # Command line apps to install via Homebrew
 ###############################################################################
