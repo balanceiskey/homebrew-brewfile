@@ -37,6 +37,7 @@ tap "romkatv/powerlevel10k"
 
 brew "romkatv/powerlevel10k/powerlevel10k"
 brew "fzf"
+brew "diff-so-fancy"
 
 ###############################################################################
 # Command line apps to install via Homebrew
